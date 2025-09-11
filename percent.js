@@ -6,15 +6,15 @@ let count=0;
 Inter.onclick=function()
 {
     count=96.9;
-   countLabel.textContent=count;
+    countLabel.textContent=count;
 }
 SSc.onclick=function()
 {
     count=97.5;
-   countLabel.textContent=count;
+    countLabel.textContent=count;
 }
 Btech.onclick=function()
 {
     count=88.2;
-   countLabel.textContent=count;
+    countLabel.textContent=count;
 }
