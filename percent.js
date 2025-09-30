@@ -1,3 +1,4 @@
+//javascript code to make page responsive when user clicks on certain button
 const Inter=document.getElementById("Inter");
 const SSc=document.getElementById("SSc");
 const Btech=document.getElementById("Btech");
