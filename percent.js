@@ -4,6 +4,7 @@ const SSc=document.getElementById("SSc");
 const Btech=document.getElementById("Btech");
 const countLabel=document.getElementById("countLabel");
 let count=0;
+//it is to show the intermediate percentage which the button is clicked
 Inter.onclick=function()
 {
     count=96.9;
