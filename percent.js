@@ -10,6 +10,7 @@ Inter.onclick=function()
     count=96.9;
     countLabel.textContent=count;
 }
+// the below line executes when the user want to know ssc percentage
 SSc.onclick=function()
 {
     count=97.5;
