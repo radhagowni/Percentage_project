@@ -20,6 +20,7 @@
     transition: background-color 0.25s;
     
 }
+/* we hover function to show the change when cursor moves */
 .buttons:hover{
     background-color:hsl(127, 100%, 64%);
 
