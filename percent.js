@@ -16,6 +16,7 @@ SSc.onclick=function()
     count=97.5;
     countLabel.textContent=count;
 }
+// if the btech button is clicked  then this function will be executed 
 Btech.onclick=function()
 {
     count=88.2;
